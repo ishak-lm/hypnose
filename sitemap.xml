@@ -7,22 +7,32 @@
 
 <url>
   <loc>https://hypnose-genevoise.fr/</loc>
-  <lastmod>2018-11-18T18:25:28+00:00</lastmod>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://hypnose-genevoise.fr/about</loc>
-  <lastmod>2018-11-18T18:25:28+00:00</lastmod>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hypnose-genevoise.fr/services</loc>
-  <lastmod>2018-11-18T18:25:28+00:00</lastmod>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://hypnose-genevoise.fr/contact</loc>
-  <lastmod>2018-11-18T18:25:28+00:00</lastmod>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hypnose-genevoise.fr/blog</loc>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hypnose-genevoise.fr/seminaires</loc>
+  <lastmod>2022-07-03T18:25:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
