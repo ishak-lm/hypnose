@@ -1,0 +1,13 @@
+# Humans.txt - L'équipe derrière hypnose-genevoise.fr
+# humanstxt.org
+
+/* TEAM */
+Role: Hypnothérapeute
+Location: Saint-Julien-en-Genevois, France
+
+/* SITE */
+Last update: 2025/01/25
+Language: Français / French
+Standards: HTML5, CSS3
+Components: Bootstrap, Swiper, jQuery
+Software: HTML, CSS, JavaScript

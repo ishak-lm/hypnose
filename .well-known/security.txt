@@ -1,0 +1,7 @@
+# Security.txt for hypnose-genevoise.fr
+# This file helps security researchers report security vulnerabilities
+
+Contact: mailto:contact@hypnose-genevoise.fr
+Expires: 2026-01-25T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://hypnose-genevoise.fr/.well-known/security.txt
